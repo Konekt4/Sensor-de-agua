@@ -13,22 +13,53 @@ def json_crear(os, funcionamiento, json):
 
     A = {}
 
-    A['fecha'] = []
+    A['registro'] = []
 
-    if "Sensor_agua.json" not in funcionamiento:
-        with open("Sensor_agua.json", "w") as file:
+    if "Registro_de_agua.json" not in funcionamiento:
+        with open("Registro_de_agua.json", "w") as file:
             json.dump(A, file, indent=4)
 
 def imprimir():
     programa()
+
+def flujo_agua_detectado(datetime, json):
+    z = {}
+    with open('Registro_de_agua.json') as file:
+        salida = json.load(file)
+
+    texto1 = "Flujo de agua detectado!"
+    texto2 = str(datetime)
+    print(texto1, texto2)
+    z['aviso'] = texto1
+    z['fecha'] = texto2
+    salida['registro'].append(z.copy())
+
+    with open('Registro_de_agua.json','w') as file:
+        json.dump(salida,file,indent=4)
+    
+def alerta_agua_detecado(datetime, json):
+    y = {}
+    with open('Registro_de_agua.json') as file:
+        salida = json.load(file)
+
+    texto1 = "Alerta!, flujo anormal de agua por tiempo prolongado detectado"
+    texto2 = str(datetime)
+    print(texto1, texto2)
+    y['alerta'] = texto1
+    y['fecha'] = texto2
+    salida['registro'].append(y.copy())
+
+    with open('Registro_de_agua.json','w') as file:
+        json.dump(salida,file,indent=4)
 
 def programa():
     from gpiozero import Button, LED
     import json
     import os
     from datetime import datetime
-    datetime=datetime.now()
     funcionamiento = []
+
+    x = 0
 
     json_crear(os, funcionamiento, json)
 
@@ -36,26 +67,20 @@ def programa():
     pin_led = LED(16)
 
     sensor_flujo = Button(pin_flujo_agua)
-
-    def flujo_agua_detectado():
-        z = {}
-        with open('Sensor_agua.json') as file:
-            salida = json.load(file)
-        texto = f"¡Flujo de agua detectado! {datetime}"
-        print(texto)
-        z['fecha'] = texto
-        salida['fecha'].append(z.copy())
-
-        with open('Sensor_agua.json','w') as file:
-            json.dump(salida,file,indent=4)
-            
+#~    
     while True:
         if sensor_flujo.when_pressed is True:
-            flujo_agua_detectado()
+            x += 1
+            datetime=datetime.now()
+            flujo_agua_detectado(datetime, json)
             pin_led.on()
+            if x >= 60:
+                alerta_agua_detecado(datetime, json)
+                x = 0
 
         elif sensor_flujo.when_pressed is False:
             pin_led.off()
+            x = 0
 
 #Inicio
 imprimir()
