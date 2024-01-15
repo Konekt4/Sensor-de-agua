@@ -15,6 +15,8 @@ def json_crear(os, funcionamiento, json):
 
     A['registro'] = []
 
+    A['ajustes'] = [{"alerta" : "60"}]
+
     if "Registro_de_agua.json" not in funcionamiento:
         with open("Registro_de_agua.json", "w") as file:
             json.dump(A, file, indent=4)
@@ -53,7 +55,6 @@ def alerta_agua_detecado(datetime, json):
         json.dump(salida,file,indent=4)
 
 def programa():
-    #from gpiozero import Button, LED
     import json
     import os
     from msvcrt import getch
@@ -66,7 +67,13 @@ def programa():
 
     json_crear(os, funcionamiento, json)
 
-    #pin_flujo_agua = "Agua"
+
+    with open('Registro_de_agua.json') as file:
+        ingreso = json.load(file)
+
+    for i in ingreso['ajustes']:
+        ajuste = int(i['alerta'])
+    
     pin_led = "Foco"
  #⌂           
     while True:
@@ -78,7 +85,7 @@ def programa():
             datetime=datetime.now()
             flujo_agua_detectado(datetime, json)
             print(pin_led," prendido")
-            if x >= 60:
+            if x >= ajuste:
                 alerta_agua_detecado(datetime, json)
                 x = 0
             
