@@ -66,17 +66,16 @@ def programa():
     x = 0
 
     json_crear(os, funcionamiento, json)
-
-
-    with open('Registro_de_agua.json') as file:
-        ingreso = json.load(file)
-
-    for i in ingreso['ajustes']:
-        ajuste = int(i['alerta'])
     
     pin_led = "Foco"
  #⌂           
     while True:
+        with open('Registro_de_agua.json') as file:
+            ingreso = json.load(file)
+
+        for i in ingreso['ajustes']:
+            ajuste = int(i['alerta'])
+
         print(x)
         print("Ingrese 1 o 0 ----> ")
         sensor_flujo = getch()

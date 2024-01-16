@@ -65,18 +65,18 @@ def programa():
 
     json_crear(os, funcionamiento, json)
 
-    with open('Registro_de_agua.json') as file:
-        ingreso = json.load(file)
-
-    for i in ingreso['ajustes']:
-        ajuste = int(i['alerta'])
-
     pin_flujo_agua = 17
     pin_led = LED(16)
 
     sensor_flujo = Button(pin_flujo_agua)
 #~    
     while True:
+        with open('Registro_de_agua.json') as file:
+            ingreso = json.load(file)
+
+        for i in ingreso['ajustes']:
+            ajuste = int(i['alerta'])
+
         if sensor_flujo.when_pressed is True:
             x += 1
             datetime=datetime.now()

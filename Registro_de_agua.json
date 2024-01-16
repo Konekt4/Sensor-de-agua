@@ -1091,11 +1091,879 @@
         {
             "alerta": "Alerta!, flujo anormal de agua por tiempo prolongado detectado",
             "fecha": "2024-01-15 09:24:13.908117"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:14.447388"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:14.956096"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:14.989174"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.020935"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.054193"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.087930"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.120733"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.154007"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.186506"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.218818"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.251959"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.282013"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.317215"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.348922"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.379952"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.414110"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.446079"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.480374"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.514603"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.544701"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.579326"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.610385"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.642078"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.673892"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.707359"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.739407"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.775216"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.806468"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.840267"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:15.871444"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:22.407674"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:22.761861"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:23.001979"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:23.330385"
+        },
+        {
+            "alerta": "Alerta!, flujo anormal de agua por tiempo prolongado detectado",
+            "fecha": "2024-01-15 18:37:23.330385"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:24.842588"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.355335"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.388224"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.420905"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.452925"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.484908"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.516121"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.552134"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.582448"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.615679"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.648343"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.680573"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.713287"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.745909"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.777859"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.811249"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.845247"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.877403"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.912010"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.960315"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:25.978312"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.007312"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.039312"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.071311"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.104310"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.137311"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.171313"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.203314"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.236109"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.269371"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.302057"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.332827"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:26.537360"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.047854"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.080150"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.112561"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.146538"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.179537"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.209579"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.242006"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.275367"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.309727"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.340656"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.374696"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.405978"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.440989"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.471780"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.504170"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.537946"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.570876"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.603577"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.635853"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.668618"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.701594"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.735221"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.767664"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.797949"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.829281"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.864839"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.895769"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.928241"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.961549"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:27.992840"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.028499"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.061046"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.092474"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.124728"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.156813"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.189913"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.223404"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.255313"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.288814"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.320361"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.352727"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.387821"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:28.630407"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:29.005842"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:29.297918"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:29.468438"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:29.678952"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:29.895746"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:30.141981"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:30.349125"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:30.530619"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:30.745539"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:30.954974"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:31.229438"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:31.597145"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:31.865841"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:32.234725"
+        },
+        {
+            "alerta": "Alerta!, flujo anormal de agua por tiempo prolongado detectado",
+            "fecha": "2024-01-15 18:37:32.234725"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:55.308356"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:55.821522"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:55.853784"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:55.886762"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:55.920255"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:55.951875"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:55.982708"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.015974"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.049013"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.082016"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.115203"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.145043"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.178977"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.211414"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.245984"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.277566"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.310494"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.341635"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.375077"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.409858"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.439668"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.475228"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.504524"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.537848"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.571224"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.603491"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.637901"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.671480"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.703913"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.735142"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.768162"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.800477"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.833212"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.864496"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.899182"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.932310"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.963565"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:56.996715"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.027171"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.061780"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.093481"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.127860"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.157306"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.189353"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.226186"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.255372"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.289075"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.322194"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.355415"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.387722"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.420591"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.452902"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.484947"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.517497"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.553212"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.582648"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:57.937371"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:58.125982"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:58.294146"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:58.491805"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:58.718091"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:58.930233"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:59.206796"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:59.376447"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:59.580680"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:37:59.750846"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.262576"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.292554"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.326746"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.358941"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.391403"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.423648"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.457279"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.490566"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.521735"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.556452"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.587897"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.620762"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:00.653507"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:01.005023"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:01.190090"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:01.372533"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:01.564250"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:01.688495"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:02.199389"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:02.231405"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:02.263562"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:02.296829"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:02.480007"
+        },
+        {
+            "aviso": "Flujo de agua detectado!",
+            "fecha": "2024-01-15 18:38:02.827002"
+        },
+        {
+            "alerta": "Alerta!, flujo anormal de agua por tiempo prolongado detectado",
+            "fecha": "2024-01-15 18:38:02.827002"
         }
     ],
     "ajustes": [
         {
-            "alerta": "90"
+            "alerta": "60"
         }
     ]
 }
