@@ -14,7 +14,7 @@ def json_crear(os, funcionamiento, json):
             funcionamiento.append(archivo)
 
     # Preingreso de datos al archivo Json
-
+#1
     A = {}
 
     A['registro'] = []
@@ -70,7 +70,8 @@ def alerta_agua_detecado(datetime, json):
 
 #Función programa que importa las librerías principales
 def programa():
-    from gpiozero import Button, LED
+    from gpiozero import DigitalInputDevice, LED
+    import time
     import json
     import os
     from datetime import datetime
@@ -83,9 +84,10 @@ def programa():
     json_crear(os, funcionamiento, json)
 
     pin_flujo_agua = 17
-    pin_led = LED(16)
-
-    sensor_flujo = Button(pin_flujo_agua)
+    
+    #Se inicializa la configuración de la raspberry
+    sensor_flujo = DigitalInputDevice(pin=pin_flujo_agua, pull_up=False)
+    
 #~  Se crea un bucle while para mantener operativo el programa
     while True:
         #Se abre el Json para obtener la variable ingreso
@@ -97,18 +99,20 @@ def programa():
             ajuste = int(i['alerta'])
         
         #Detección del agua
-        if sensor_flujo.when_pressed is True:
+        if sensor_flujo.is_active is True:
             x += 1
+            print(x)
             datetime=datetime.now()
             flujo_agua_detectado(datetime, json)
-            pin_led.on()
             if x >= ajuste:
                 alerta_agua_detecado(datetime, json)
                 x = 0
         
-        elif sensor_flujo.when_pressed is False:
-            pin_led.off()
+        elif sensor_flujo.is_active is False:
+            print(x)
             x = 0
+
+        time.sleep(0.5)
 
 #Aquí se inicia el programa
 imprimir()
