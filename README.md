@@ -1,10 +1,18 @@
-# Sensor-de-agua
-Katana, trabajo de IoT
-Este es el inicio del sensor de agua para controlar consumos
-Además de proporcionar información útil al usuario
+# Sensor de Agua
 
-Se ha actualizado el código y hecho un código de prueba
+Este proyecto, denominado **Katana**, es un trabajo de IoT para controlar consumos de agua y proporcionar información útil al usuario. 
 
-Se ha probado el código con la Raspberry dando resultados positivos con el sensor y su respectivo registro
+## Contenido del Repositorio
 
-Los códigos usados para el proyecto son Sensor_de_agua.py, Ajustes_de_usuario.py y Registro_de_agua.json
+- **Sensor_de_agua.py**: Código principal para el sensor de agua.
+- **Ajustes_de_usuario.py**: Código para los ajustes de usuario.
+- **Registro_de_agua.json**: Archivo JSON que contiene los registros de consumo de agua.
+
+## Descripción del Proyecto
+
+Este proyecto tiene como objetivo monitorear y controlar el consumo de agua mediante un sensor conectado a una Raspberry Pi. El sistema proporciona información útil al usuario sobre el uso del agua.
+
+### Actualizaciones y Pruebas
+
+- Se ha actualizado el código y se ha creado un código de prueba.
+- El código ha sido probado con éxito en una Raspberry Pi, obteniendo resultados positivos con el sensor y su respectivo registro.
